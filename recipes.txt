@@ -1,0 +1,103 @@
+# Make sure the ingredients are specific and the same if seen twice.
+# I.E. bottle of, tbsp of, ml of, etc
+{
+'Stir Fry Udon': {
+    'fillet/s of pork': 1, 
+    'packet/s of udons.': 2, 
+    'strands of green onion': 3, 
+    'bottle of soy sauce': 1, 
+    'bottle of oyster sauce': 1, 
+    'bottle of sesame oil': 1, 
+    'bottl of rice wine vinegar': 1, 
+    'dash of chilli flakes': 1
+    }, 
+'Mash Potato Sausage': {
+    'sausages': 12, 
+    'potatoes': 5, 
+    'mls of cream': 150, 
+    'tbps of butter': 1, 
+    'broccolini/asparagus': 1
+    },
+'Chilli with Rice': {
+    'can of assorted beans': 2, 
+    'kgs of minced beef': 1, 
+    'green capsicum': 1, 
+    'yellow capisicum': 1, 
+    'dash of chilli flakes': 1, 
+    'cups of rice': 2
+    },
+'Air Fried Chicken with Rice': {
+    'broccolini/asparagus': 1, 
+    'red capsicum': 1, 
+    'chicken drumsticks': 8, 
+    'paprika': 1, 
+    'cumin': 1, 
+    'garlic Powder': 1, 
+    'cups of rice': 2
+    },
+'Japanese Curry Rice': {
+    'potatoes': 3,
+    'carrots': 2,
+    'onions': 1,
+    'chicken thighs': 4,
+    'japanese curry cube': 3,
+    'cups of rice': 2,
+    },
+'Pasta Bake': {
+    'pasta bake sauce': 1,
+    'chicken snitzel': 4,
+    'onions': 1,
+    'jar of sundried tomatoes': 0.5,
+    'mls of cream': 150,
+    'packet of pasta': 1,
+    },
+'Red Pesto': {
+    'jar of sundried tomato pesto': 0.5,
+    'chicken snitzel': 4,
+    'onion/s': 1,
+    'jar of sundried tomatoes': 0.5,
+    'mls of cream': 150,
+    'packet of pasta': 1,
+    'cheese': 1,
+    },
+'Green Pesto': {
+    'jar of barilla pesto with cheese': 1,
+    'chicken thighs': 4,
+    'onions': 1,
+    'jar of sundried tomatoes': 0.5,
+    'mls of cream': 150,
+    'packet of pasta': 1,
+    },
+'Salmon with rice': {
+    'piece of salmon': 4,
+    'broccolini/asparagus': 1, 
+    'cups of rice': 2
+    },
+'Butter Chicken': {
+    'Packet of butter chicken': 1,
+    'onions': 1,
+    'chicken thighs': 4,
+    'cups of rice': 2,
+    'mls of cream': 150, 
+    },
+'Soba Noodles': {
+    'rolls of soba': 4,
+    'bokchoy': 1,
+    'bottle of soba dipping sauce': 1,
+    'packet of rice seasoning': 1,
+    },
+'Cream Pasta': {
+    'packet of mushroom': 0.5,
+    'bacon slices': 5,
+    'onions': 1,
+    'mls of cream': 150,
+    'packet of pasta': 1,
+    },
+'Cream Pasta with Steak': {
+    'kgs of steak': 1,
+    'packet of pasta': 1,
+    'mls of cream': 150,
+    'packet of mushroom': 0.5,
+    'tbsp of garlic': 1,
+}
+}
